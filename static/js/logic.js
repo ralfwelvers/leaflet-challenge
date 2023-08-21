@@ -73,3 +73,4 @@ function getColor(depth) {
          depth >= 10 ? '#FD8D3C' :
                        '#FEB24C';
 }
+
